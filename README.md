@@ -1,3 +1,5 @@
+
+<h1 align="center"><img src="https://github.com/debanjan-exe/debanjan-exe/blob/main/Code%20typing-pana.png?raw=true" width="450px"></h1>
 <h1 align="center">Hi 👋, I'm Sagar Kumar Mishra</h1>
 <h3 align="center">A passionate Data Science and Machine Learning enthusiast.</h3>
 
