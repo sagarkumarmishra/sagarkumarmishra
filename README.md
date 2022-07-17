@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sagar.mishra7835@gmail.com**
 
-- 📄 Know about my experiences [My Resume](resumelink.com)
+- 📄 Know about my experiences [My Resume](https://sagarkumarmishra.netlify.app/)
 
 - ⚡ Fun fact **Programmer - A machine that turns coffee into Code**
 <br><br>
