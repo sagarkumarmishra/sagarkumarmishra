@@ -6,9 +6,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkumarmishra" alt="sagarkumarmishra" /></a> </p>
 <br><br>
 
-- 🌱 I’m currently learning **Data Science, Python, Machine learning etc.**
+- 🌱 I’m currently working as a  **Data Analyst, Working on Python, Power BI, SQL Server, Oracle, AWS Redshift, Excel, Jira,  etc.**
 
-- 💬 Ask me about **Data Science, Python, Machine learning**
+- 💬 Ask me about **Data Science, Python, Machine learning, Artificial Intelligence**
 
 - 📫 How to reach me **sagar.mishra7835@gmail.com**
 
