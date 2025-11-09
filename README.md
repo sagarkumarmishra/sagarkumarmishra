@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently working as a  **Data Analyst, Working on Python, Power BI, SQL Server, Oracle, AWS Redshift, Excel, Jira,  etc.**
+- 🌱 I’m currently working as a  **Senior Data Engineer, Working on Python, Power BI, SQL Server, Machine Learning, AWS, azure,Snowflake, Excel, Jira,  etc.**
 
 - 💬 Ask me about **Data Science, Python, Machine learning, Artificial Intelligence**
 
