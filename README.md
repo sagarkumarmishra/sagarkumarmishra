@@ -16,7 +16,7 @@
 </h3>
 
 <p align="center">
-  <em>Building production-grade data infrastructure that powers intelligent decision-making in Insurance, Healthcare, and beyond.</em>
+  <em>Building production-grade data infrastructure that powers intelligent decision-making in Insurance, Healthcare, Finance, and beyond.</em>
 </p>
 
 
@@ -218,7 +218,7 @@ Optimized manufacturing test bench time using advanced ML techniques.
 - Git, CI/CD practices
 
 **Domain Knowledge**
-- Insurance, Healthcare, Pharmaceutical, Telecom
+- Insurance, Finance, Healthcare, Pharmaceutical, Telecom
 
 
 **Why Work With Me?**
