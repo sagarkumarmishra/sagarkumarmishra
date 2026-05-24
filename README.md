@@ -22,7 +22,7 @@
 
 ### 🌟 About Me
 
-With **5.8+ years** of progressive experience in data engineering, I specialize in designing, developing, and optimizing large-scale data pipelines and cloud-native architectures. 
+With **6+ years** of progressive experience in data engineering, I specialize in designing, developing, and optimizing large-scale data pipelines and cloud-native architectures. 
 
 Currently working as a **Senior Data Engineer at NTT Data Business Solutions**, I focus on delivering high-impact data solutions using modern technologies like Snowflake, AWS, Python, and PySpark. My expertise spans batch and near real-time processing, API-driven ingestion, performance tuning, and integrating Generative AI capabilities into data workflows.
 
